@@ -48,6 +48,15 @@
      <FIELDNAME>KORRNUM</FIELDNAME>
     </DD27P>
    </DD27P_TABLE>
+   <I18N_LANGS>
+    <LANGU>D</LANGU>
+   </I18N_LANGS>
+   <dd25_TEXTS>
+    <item>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DDTEXT>unit test DE</DDTEXT>
+    </item>
+   </dd25_TEXTS>
   </asx:values>
  </asx:abap>
 </abapGit>
